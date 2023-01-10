@@ -1,11 +1,14 @@
 ﻿namespace Codemash.TDD.Fizzbuzz
 {
+
+
     public class FizzBuzzService
     {
         public FizzBuzzService()
         {
 
         }
+
 
         public List<string> GenerateValues(int quantity = 100)
         {

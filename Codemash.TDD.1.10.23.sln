@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemash.TDD.Fizzbuzz", "Co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A51077F2-1D9E-4D8B-BE4E-89F5E2BA7DFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codemash.TDD.Fizzbuzz.Tests", "Codemash.TDD.Fizzbuzz.Tests\Codemash.TDD.Fizzbuzz.Tests.csproj", "{59C93D67-1A0D-499C-BDC4-4663AD2C2575}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Tests", "Codemash.TDD.Fizzbuzz.Tests\FizzBuzz.Tests.csproj", "{59C93D67-1A0D-499C-BDC4-4663AD2C2575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
